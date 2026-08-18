@@ -1,4 +1,4 @@
-# Clase 7 — Operaciones sobre listas
+# Ejercicio 7 — Operaciones sobre listas
 
 Fundamentos de Programación Funcional y Concurrente
 Escuela de Ingeniería de Sistemas y Computación, Universidad del Valle
